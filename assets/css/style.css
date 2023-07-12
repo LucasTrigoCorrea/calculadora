@@ -33,7 +33,7 @@ body {
   justify-content: center;
   align-items: center;
   margin: 50px;
-  background: #ffffff93;
+  background: #00000093;
   padding: 20px;
   border-radius: 10px;
   border-radius: 10px;
@@ -45,7 +45,7 @@ body {
 .container h1{
   font-size: 2.5rem;
   font-family: var(--bold);
-  color:  #44148b;
+  color:  #ffffff;
 }
 
 .calculadora {
@@ -85,3 +85,4 @@ body {
 .btn:hover {
   background: #9e9e9e;
 }
+
